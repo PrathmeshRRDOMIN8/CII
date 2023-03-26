@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213012066784",
+    "project_id": "ciihackathon-b046d",
+    "storage_bucket": "ciihackathon-b046d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213012066784:android:948363badb015e58e7bb85",
+        "android_client_info": {
+          "package_name": "com.example.ciihackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213012066784-1m24ugb1tosch0abe6hg1fnvu1054vmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdScJLhLUy4727OlKsSME4pKelXE7uBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213012066784-1m24ugb1tosch0abe6hg1fnvu1054vmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
